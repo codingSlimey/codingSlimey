@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codingSlimey
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React.js
+- 🌱 I’m a currently a React.js developer
 - 💞️ I’m looking to collaborate on any projects involving HTML, CSS, JS or React.js
 - 📫 How to reach me superslimeysl@gmail.com
 
